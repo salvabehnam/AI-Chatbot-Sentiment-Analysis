@@ -8,7 +8,7 @@ We use **TF-IDF Vectorization** and **Logistic Regression** to train the model o
 - **Custom Dataset with Strong Sentiment Reinforcement**
 - **Modular Code (Dataset, Chatbot)**
 
-## 📂 Project Structure
+## 📂 Project Structure 
     AI_Chatbot/
     ├── README.md                   
     ├── requirements.txt            
