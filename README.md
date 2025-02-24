@@ -4,7 +4,7 @@ We use **TF-IDF Vectorization** and **Logistic Regression** to train the model o
 
 ## 📌 Features
 - **Three-Class Sentiment Analysis (Positive, Negative, Neutral)**
-- **Pre-Trained Logistic Regression Model**
+- **Locally Trained Logistic Regression Model**
 - **Custom Dataset with Strong Sentiment Reinforcement**
 - **Modular Code (Dataset, Chatbot)**
 
